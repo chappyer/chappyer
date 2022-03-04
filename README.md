@@ -1,6 +1,5 @@
 ## Hi there 👋  How was your day？
-![](https://visitor-badge.glitch.me/badge?page_id=chappyer.readme)
-
+![](https://visitor-badge.glitch.me/badge?page_id=chappyer.readme)[<img src = "https://img.shields.io/static/v1?label=resume&message=chappyer&color=<success>">](https://www.chappyer.com/resume/build/index.html)
 
 
 
