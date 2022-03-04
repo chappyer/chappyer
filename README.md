@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently working on deepling learning
 
-- 😄 I’m interested in reading books
+- 🤔 I’m interested in reading books
 
 - 💬 Welcome to communicate with me
 
