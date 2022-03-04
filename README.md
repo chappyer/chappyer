@@ -1,9 +1,16 @@
-### Hi there 👋  How was your day？
+## Hi there 👋  How was your day？
+
+[<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chappyer&show_icons=true&&theme=dark">](https://github.com/chappyer?template=classic)
+
 
 - 🔭 I’m currently learning computer&math
+
 - 🌱 I’m currently working on deepling learning
+
 - 😄 I’m interested in reading books
+
 - 💬 Welcome to communicate with me
+
 
 <!--
 **chappyer/chappyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,5 +26,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![Rainbow cat's github stats](https://github-readme-stats.vercel.app/api?username=chappyer&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
