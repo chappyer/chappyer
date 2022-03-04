@@ -6,6 +6,7 @@
 
 [<img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=chappyer&show_icons=true&&theme=dark">](https://github.com/chappyer?template=classic)
 
+- 😄 I'm an undergraduate student in SUSTech
 
 - 🔭 I’m currently learning computer&math
 
