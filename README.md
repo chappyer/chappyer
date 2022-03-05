@@ -7,9 +7,9 @@
 
 - 😄 I'm an undergraduate student in SUSTech
 
-- 🌱 I’m currently learning computer&math
+- 🌱 I’m currently learning Computer&Math
 
-- 🔭 I’m currently working on deepling learning
+- 🔭 I’m currently working on Deep Learning
 
 - 🤔 I’m interested in reading books
 
