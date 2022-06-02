@@ -24,7 +24,7 @@
 
 - The unwinding 下沉年代
 
->  More information see [library](http://www.chappyer.com/library)
+>  More information see [library](https://github.com/chappyer/library)
 
 <!--
 **chappyer/chappyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
