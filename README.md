@@ -15,6 +15,17 @@
 - 💬 Welcome to communicate with me
 
 
+
+#### Recommended Books
+
+- [The Choice 拥抱可能](./2022/finish_reading/拥抱可能.md)  ⭐⭐⭐⭐⭐
+
+#### On Reading Books
+
+- The unwinding 下沉年代
+
+>  More information see [library](http://www.chappyer.com/library)
+
 <!--
 **chappyer/chappyer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
