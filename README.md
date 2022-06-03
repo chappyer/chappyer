@@ -18,11 +18,11 @@
 
 #### Recommended Books
 
-- [The Choice 拥抱可能](./2022/finish_reading/拥抱可能.md)  ⭐⭐⭐⭐⭐
+- [The Choice 拥抱可能](https://github.com/chappyer/library/blob/main/2022/finish_reading/%E6%8B%A5%E6%8A%B1%E5%8F%AF%E8%83%BD.md)  ⭐⭐⭐⭐⭐
 
 #### On Reading Books
 
-- [Midnight in Chernoby 切尔诺贝利的午夜](./2022/on_reading/切尔诺贝利的午夜.md)
+- [Midnight in Chernoby 切尔诺贝利的午夜](https://github.com/chappyer/library/blob/main/2022/on_reading/%E5%88%87%E5%B0%94%E8%AF%BA%E8%B4%9D%E5%88%A9%E7%9A%84%E5%8D%88%E5%A4%9C.md)
 
 >  More information see [library](https://github.com/chappyer/library)
 
